@@ -1,10 +1,9 @@
 # Python-Codes
 File Handling Program
 
-1.      Multiple entries exists in student.txt file for different subject fields as Rollno, StudName, Subject, Marks for each student.
+1. Multiple entries exists in student.txt file for different subject fields as Rollno, StudName, Subject, Marks for each student.
 
 e.g
-
 <Rollno>,<StudName>,<Marks>,<Subject>
 101,Santosh , maths, 35
 102, Hina, English, 41
